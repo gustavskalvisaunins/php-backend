@@ -1,0 +1,7 @@
+{
+    "name": "php/user-adding",
+    "description": "User adding",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
